@@ -7,3 +7,6 @@ spatial filtering techniques
 edge detection
 - prewitt operator
 - canny 
+
+filtering
+- median
